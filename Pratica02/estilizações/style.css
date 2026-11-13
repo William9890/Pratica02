@@ -1,0 +1,24 @@
+body{background-color: #f0efe2;}
+
+
+h1{
+    color: #8f7265;
+    font-size: 50px;
+}
+
+h2{
+    color: #8f7265;
+    font-size: 30px;
+}
+
+div{
+    background-color: #e4d2c3;
+    border-radius: 20px;
+    width: 350px;
+    height:fit-content;
+}
+
+.divparagrafo{  background-color: #e4d2c3;
+    border-radius: 20px;
+    width: 350px;
+    height: 100px;}
